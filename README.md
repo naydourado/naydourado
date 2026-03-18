@@ -35,3 +35,5 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/naydourado/naydourado/output/github-contribution-grid-snake-dark.svg" />
