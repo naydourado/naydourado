@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Me chamo Nayra Dourado, tenho 19 anos.<br><br>- Atualmente, trabalho em Soluções Digitais na Bosch Campinas.<br>- 📚 Cursando Sistemas de Informação e formada no Técnico em Informática pelo UNASP.<br></p>
+<p align="left">Me chamo Nayra Dourado, tenho 19 anos.<br><br>- Atualmente, trabalho em Soluções Digitais na Bosch Campinas.<br>- Cursando Sistemas de Informação e formada no Técnico em Informática pelo UNASP.<br></p>
 
 ###
 
