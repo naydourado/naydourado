@@ -1,13 +1,13 @@
-<h1 align="center">Olá! 👋</h1>
+<h1>Olá! 👋</h1>
 
 <div>
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J5aHppaHlqdm1pNTFpaWM5eXI5NnE1ZGs5aThobnA4ODU1Mng4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XE4TpB5WyQJEpGGpv9/giphy.gif"/>
+  <img height="90" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J5aHppaHlqdm1pNTFpaWM5eXI5NnE1ZGs5aThobnA4ODU1Mng4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XE4TpB5WyQJEpGGpv9/giphy.gif"/>
 </div>
 
 ###
 
 <div>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"/>
 </div>
 
 ###
