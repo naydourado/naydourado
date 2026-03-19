@@ -15,17 +15,11 @@
 ###
 
 <h3 align="left">Sobre mim</h3>
-
-###
-
 <p align="left">Me chamo Nayra Dourado, tenho 19 anos.<br><br>- Atualmente, trabalho em Soluções Digitais na Bosch Campinas.<br>- Cursando Sistemas de Informação e formada no Técnico em Informática pelo UNASP.<br></p>
 
 ###
 
 <h3 align="left"> Linguagens e Ferramentas</h3>
-
-###
-
 <div align="left">
   <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
   <code><img  width="40px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" title = "PHP"/></code>
